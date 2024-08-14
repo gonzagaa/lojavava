@@ -11,7 +11,7 @@
 
     transition: all 200ms ease-in-out;
 
-    padding-block: 8rem;
+    padding-block: 6rem;
   }
 
   #home .wrapper {
@@ -120,7 +120,7 @@
   header#home {
     justify-content: center;
     min-height: 0;
-    height: 100vh;
+    max-height: 100vh;
   }
 
   header#home .content h1 {

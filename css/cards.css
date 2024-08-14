@@ -18,6 +18,20 @@
     position: relative;
 }
 
+#home .cards .card .recomendado {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    background: rgba(99, 99, 99, 0.2);
+    padding: 1.5rem;
+    border-radius: 0 0 1rem 0;
+}
+
+#home .cards .card .recomendado p {
+    margin-top: 0;
+}
+
 #home .cards .card img {
     width: 7rem;
 }
